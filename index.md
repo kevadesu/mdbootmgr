@@ -1,4 +1,4 @@
-# mdbootmgr
+# browser@192.168.1.1
 
 ---
 ## [/dev/oda1](https://windows96.net/)
